@@ -1,5 +1,5 @@
 
-class Rekurencja {
+class Rekurencja{
     public static void main(String [] args){
         //rekurencja(5);
         //System.out.println(zwracamJedynke());
@@ -20,9 +20,8 @@ class Rekurencja {
         } else if(a>b && c>b){
             suma = a+c;
         } else if(b>a && c>a){
-            suma = a+c;
-        } else if(b>a && b>c)
-
+            suma = b+c;
+        }
         return suma;
     }
 
