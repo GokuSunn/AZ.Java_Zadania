@@ -1,0 +1,21 @@
+Jednostka            Jelenie                                        
+terytorialna                                                                                                                                          
+                     ilosc     wartosc    wartosc      wartosc       
+                     2009      2010       2009         2010          
+(t)                   ");
+ŁÓDZKIE            | 36        50         2254         374           
+MAZOWIECKIE	   | 43        257        2603         22158         
+MAŁOPOLSKIE	   | 78        89         5132         6894          
+ŚLĄSKIE		   | 115       119        7602         8937          
+LUBELSKIE	   | 31        54         197          4565          
+PODKARPACKIE       | 262       187        16766        15094         
+PODLASKIE          | 86        130        5151         9388          
+ŚWIĘTOKRZYSKIE	   | 14        20         918          1443          
+LUBUSKIE	   | 233       224        14571        17175            
+WIELKOPOLSKIE	   | 314       317        19526        23095             
+ZACHODNIOPOMORSKIE | 562       657        35519        4753           
+DOLNOŚLĄSKIE	   | 286       275        1953         22537            
+OPOLSKIE	   | 269       189        1848         1457              
+KUJAWSKO-POMORSKIE | 149       196        917          1436              
+POMORSKIE	   | 228       263        14033        18961         
+WARMIŃSKO-MAZURSKIE| 310       393        18902        29731  

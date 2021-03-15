@@ -1,0 +1,7 @@
+Jednostka            Jelenie                                        Sarny                                            Dziki
+terytorialna                                                                                                                                          
+                     ilosc     wartosc    wartosc      wartosc       ilosc      ilosc      wartosc      wartosc    ilosc     ilosc     wartosc    wartosc 
+                     2009      2010       2009         2010          2009       2010       2009         2010       2009      2010      2009       2010
+(t)                               
+LUBUSKIE	   | 233       224        14571        17175         135        108        12633        12034      196       254       5503       11966  
+                  
