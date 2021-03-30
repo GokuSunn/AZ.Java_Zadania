@@ -1,8 +1,8 @@
 
-class Logowanie
+public class Logowanie
 {    
-    public String login = " ";
-    public String haslo = " ";
+    private String login = "Adawdasd2";
+    private String haslo = "2115qwerty";
 
     @Override
     public String toString()
