@@ -13,12 +13,12 @@ class main {
         System.out.println(lg.toString()); 
         
         Kolo k1 = new Kolo();
-        System.out.println(k1.obwod_kola);
-        System.out.println(k1.pole_kola);
+        System.out.println(k1.pole());
+        System.out.println(k1.obwod());
 
         Kolo k2 = new Kolo();        
-        System.out.println(k2.obwod_kola);
-        System.out.println(k2.pole_kola);
+        System.out.println(k2.pole());
+        System.out.println(k2.obwod());
         
     }
 
