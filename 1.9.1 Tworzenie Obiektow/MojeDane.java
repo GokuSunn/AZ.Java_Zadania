@@ -8,7 +8,7 @@ public class MojeDane
     @Override
     public String toString()
     {
-        return "Imię: "+imie+"\n"
+        return "Imię:"+imie+"\n"
         +"Nazwisko: "+nazwisko+"\n"
         +"Klasa: "+klasa+"\n";
     }
