@@ -1,0 +1,5 @@
+Name: Meduk
+Haslo: [C@6e3249cb
+Wzrost: 123
+Waga: 255
+Data: Tue Apr 13 00:00:00 CEST 2021
